@@ -1,4 +1,4 @@
-from DQN.MountainCar.model_train_test import ModelTrainTest
+from model_train_test import ModelTrainTest
 
 
 if __name__ == '__main__':
